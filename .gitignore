@@ -1,0 +1,8 @@
+app/dist
+app/artifacts
+cache
+node_modules
+artifacts
+*.bck
+.env
+.yarn
